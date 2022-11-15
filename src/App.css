@@ -7,3 +7,24 @@
 .BakeryItem {
   
 }
+
+/* .img {
+  max-width: 250px;
+} */
+
+.cart {
+  width: 25%;
+}
+
+.item-container {
+  display: flex;
+  flex-direction: row;
+  align-content: flex-start;
+  flex-wrap: wrap;
+  background-color: rgb(255, 164, 164);
+  justify-content: space-evenly;
+  width: 75%;
+}
+
+
+
