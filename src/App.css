@@ -21,7 +21,7 @@
   flex-direction: row;
   align-content: flex-start;
   flex-wrap: wrap;
-  background-color: rgb(255, 164, 164);
+  background-color: rgb(195, 243, 255);
   justify-content: space-evenly;
   width: 75%;
 }
